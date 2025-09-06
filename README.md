@@ -24,22 +24,22 @@ This project was developed as part of an assessment and demonstrates natural lan
 
 ## Repository Structure
 genz-sim/
-├── backend/             # FastAPI backend
-│   ├── app.py
-│   ├── requirements.txt
-│   └── ... (engine/data are used inside backend)
-├── engine/              # Core simulation engine
-│   ├── simulator.py
-│   ├── personas.json
-│   └── lexicons.json
+├── backend/ # FastAPI backend
+│ ├── app.py
+│ ├── requirements.txt
+│ └── ... (engine/data are used inside backend)
+├── engine/ # Core simulation engine
+│ ├── simulator.py
+│ ├── personas.json
+│ └── lexicons.json
 ├── data/
-│   └── genz_tone_mini.csv
-├── frontend/            # React UI
-│   ├── src/
-│   ├── package.json
-│   └── vite.config.js
-├── screenshots/         # Example screenshots for README
-└── README.md            # Documentation
+│ └── genz_tone_mini.csv
+├── frontend/ # React UI
+│ ├── src/
+│ ├── package.json
+│ └── vite.config.js
+├── screenshots/ # Example screenshots for README
+└── README.md # Documentation
 
 ## API Endpoints
 - GET `/personas`  
