@@ -126,17 +126,15 @@ npm run dev
 ### Positive Announcement
 <img src="screenshots/breakfast.png" width="700">
 
-### Negative / Economic Case
+### Negative Case
 <img src="screenshots/tuition.png" width="700">
 
-### Neutral Input (Low Signal)
-<img src="screenshots/low-signal.png" width="700">
+### Neutral Input
+<img src="screenshots/random_input.png" width="700">
 
 ### Environmental Policy
-<img src="screenshots/environment.png" width="700">
+<img src="screenshots/environmental.png" width="700">
 
-### Restriction Policy
-<img src="screenshots/curfew.png" width="700">
 
 
 ## License
