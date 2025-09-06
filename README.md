@@ -68,30 +68,30 @@ POST /simulate
 ]
 
 ## Methods 
-1. Lexicon-Based Emotion Detection
+1. Lexicon-Based Emotion Detection:
 The system uses lexicons.json to map words to emotions.
 Example: “fee” → anger/sadness, “free” → joy/trust.
 Each emotion gets a score in the range [0–1].
 
-2. TF-IDF Context Retrieval
+2. TF-IDF Context Retrieval:
 The input message is vectorized using TfidfVectorizer.
 Cosine similarity is used to retrieve the top-3 closest sentences from genz_tone_mini.csv.
 These examples give context for why the persona reacts a certain way.
 
-3. Persona-Specific Weighting
+3. Persona-Specific Weighting:
 Each persona modifies emotion scores differently.
 Example: Authentic Activist amplifies values tied to fairness and environment.
 Streetwear Gamer amplifies sarcasm and hype-related tones.
 
-4. Internal vs Public Reaction Generation
+4. Internal vs Public Reaction Generation:
 Internal: Direct mapping of detected emotions to persona’s private tone.
 Public: May differ (more polite, neutralized, or exaggerated).
 A contradiction flag is raised if tone diverges.
 
-5. Political Safeguard
+5. Political Safeguard:
 If a message contains political keywords (vote, petition, election, etc.), the engine returns a safe fallback message and does not simulate.
 
-6. LLM Polishing (For Future Scope)
+6. LLM Polishing (For Future Scope):
 If OPENAI_API_KEY is set, reactions are sent to GPT with the instruction:
 “Polish the text, keep the sentiment, under 20 words.”
 
