@@ -23,23 +23,23 @@ This project was developed as part of an assessment and demonstrates natural lan
 - JSON-based persona and lexicon definitions
 
 ## Repository Structure
-genz-sim/
-├── backend/ # FastAPI backend
-│ ├── app.py
-│ ├── requirements.txt
-│ └── ... (engine/data are used inside backend)
-├── engine/ # Core simulation engine
-│ ├── simulator.py
-│ ├── personas.json
-│ └── lexicons.json
-├── data/
-│ └── genz_tone_mini.csv
-├── frontend/ # React UI
-│ ├── src/
-│ ├── package.json
-│ └── vite.config.js
-├── screenshots/ # Example screenshots for README
-└── README.md # Documentation
+backend/
+Contains the FastAPI backend (app.py, requirements.txt). It uses the engine and data folders.
+
+engine/
+Core simulation engine with simulator.py (logic), personas.json (persona definitions), and lexicons.json (emotion and tone lexicons).
+
+data/
+Stores the small dataset genz_tone_mini.csv used for TF-IDF context retrieval.
+
+frontend/
+React-based UI (src/, package.json, vite.config.js).
+
+screenshots/
+Example screenshots included for README documentation.
+
+README.md
+Project documentation (this file).
 
 ## API Endpoints
 - GET `/personas`  
