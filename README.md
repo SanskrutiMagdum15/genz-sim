@@ -117,7 +117,7 @@ pip install -r requirements.txt
 uvicorn backend.app:app --reload
 
 5. Frontend:
-1. Navigate to frontend folder
+Navigate to frontend folder
    
 cd frontend
 
