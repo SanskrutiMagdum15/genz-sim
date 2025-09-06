@@ -110,7 +110,7 @@ source venv/bin/activate   # Mac/Linux
 
 venv\Scripts\activate      # Windows
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
 4. Run the FastAPI server:
