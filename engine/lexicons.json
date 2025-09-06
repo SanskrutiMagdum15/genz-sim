@@ -1,0 +1,53 @@
+{
+  "positive": [
+    "love","great","awesome","win","cool","lit","vibe","good","amazing","sweet","glad","yay","prefer","benefit","helpful","easy","safe","clean",
+    "scholarship","financial aid","grant","stipend","free","community","support","garden","organic","sustainable","upgrade","extended","expanded"
+  ],
+  "negative": [
+    "hate","bad","annoying","ugh","cringe","sus","worried","hard","expensive","unsafe","dirty","late","slow","broken","nope","never",
+    "ban","banned","forbid","forbidden","restrict","restriction","restricted","curfew","fine","fines","penalty","penalties","fee","fees","increase","tuition","surcharge",
+    "prohibit","prohibited","no","not","not allowed","removed","cut","cuts","cancelled","cancel","discontinued","closure","lockout","probation","violation","ticket"
+  ],
+  "emotions": {
+    "joy": [
+      "love","yay","win","sunny","fun","celebrate","thrilled","proud","smile","grateful","awesome","excited",
+      "free","scholarship","grant","stipend","garden","festival","concert","breakfast","upgrade"
+    ],
+    "anger": [
+      "angry","mad","rage","unfair","annoying","furious","irritated","wtf","frustrated","bs",
+      "ban","banned","restrict","restriction","restricted","penalty","penalties","prohibit","curfew","fee","fees","increase","tuition","not allowed","surcharge",
+      "violation","ticket","lockout","hidden fees"
+    ],
+    "fear": [
+      "worried","scared","anxious","fear","panic","nervous","risk","danger","unsafe","threat",
+      "curfew","restriction","deadline","exam","midterms","finals","gpa","probation","lockdown"
+    ],
+    "trust": [
+      "reliable","safe","secure","trusted","proven","official","certified","verified","guarantee",
+      "policy","notice","update","effective","standing","accredited"
+    ],
+    "surprise": [
+      "wow","shocked","unexpected","wild","no way","omg","plot twist","suddenly","drop","flash","limited"
+    ],
+    "disgust": [
+      "gross","ew","cringe","nasty","dirty","trash","toxic","mold","roaches","scam","forbid","forbidden","penalty","prohibit","unfair"
+    ],
+    "sadness": [
+      "sad","down","blue","depressing","cry","tears","miss","lonely","cut","removed","cancelled","loss","reduced","discontinued","closure"
+    ]
+  },
+  "tones": {
+    "casual":      ["lol","tbh","idk","lowkey","highkey","ngl","fr","bro","sis","vibe","lit","slay","tho","btw","imo","irl"],
+    "formal":      ["therefore","however","moreover","attendance","compliance","procedure","deadline","mandatory","notice","update","effective","proctor","syllabus","submission"],
+    "authority":   ["required","must","enforced","penalty","rules","authority","official","regulations","discipline","policy","ban","curfew","prohibit","violation","audit","lockout","appeal"],
+    "community":   ["together","support","neighbor","team","club","group","community","friends","family","cohort","mentor","volunteer","mutual aid","collab","peer"],
+    "environment": ["climate","recycle","sustainable","green","waste","plastic","energy","heatwave","smoke","garden","compost","organic","thrift","upcycle","zero-waste","refill","farmers market","pollinator"],
+    "economy":     ["cost","budget","price","tuition","rent","fees","wage","job","career","sponsor","scholarship","financial aid","stipend","grant","paid","unpaid","internship","side hustle","gig","freelance","marketplace","merch","drop","sneaker","fit","drip","trend","discount","coupon"],
+    "safety":      ["safe","security","risk","threat","danger","emergency","alert","protect","harassment","bullying","consent","report","hotline","escort"],
+    "freedom":     ["choice","option","flexible","free","freedom","open","access","opt-in","opt-out","unlimited","self-paced"]
+  },
+  "political": [
+    "vote","voting","election","ballot","senate","congress","governor","president",
+    "bill","gop","democrat","republican","left","right","campaign","donate","petition","legalize"
+  ]
+}

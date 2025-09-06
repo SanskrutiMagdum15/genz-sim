@@ -1,0 +1,86 @@
+[
+  {
+    "id": "p1",
+    "name": "Stressed Striver",
+    "profile": {
+      "region": "Various (urban/suburban)",
+      "class": "Middle income",
+      "language": "English",
+      "immigration_wave": "Mixed"
+    },
+    "emotional_traits": { "joy": 0.45, "anger": 0.32, "fear": 0.6, "trust": 0.5, "surprise": 0.4, "disgust": 0.2, "sadness": 0.42 },
+    "tone_tags": ["polite", "driven", "overthinking"],
+    "values_priorities": { "community": 0.55, "authority": 0.45, "environment": 0.5, "economy": 0.65, "safety": 0.65, "freedom": 0.55 },
+    "contradiction_style": { "mask_style": "mask", "mask_strength": 0.85, "notes": "Downplays stress in public; keeps it together." }
+  },
+  {
+    "id": "p2",
+    "name": "Big Dreamer",
+    "profile": {
+      "region": "Various",
+      "class": "Middle income",
+      "language": "English",
+      "immigration_wave": "Mixed"
+    },
+    "emotional_traits": { "joy": 0.62, "anger": 0.18, "fear": 0.28, "trust": 0.6, "surprise": 0.55, "disgust": 0.16, "sadness": 0.22 },
+    "tone_tags": ["optimistic", "encouraging", "growth-minded"],
+    "values_priorities": { "community": 0.6, "authority": 0.3, "environment": 0.55, "economy": 0.55, "safety": 0.5, "freedom": 0.7 },
+    "contradiction_style": { "mask_style": "reveal", "mask_strength": 0.1, "notes": "Generally says what they feel." }
+  },
+  {
+    "id": "p3",
+    "name": "Authentic Activist",
+    "profile": {
+      "region": "Coastal/urban",
+      "class": "Middle income",
+      "language": "English",
+      "immigration_wave": "Second-generation common"
+    },
+    "emotional_traits": { "joy": 0.5, "anger": 0.42, "fear": 0.33, "trust": 0.48, "surprise": 0.5, "disgust": 0.3, "sadness": 0.34 },
+    "tone_tags": ["cause-aware", "direct", "mobilizing"],
+    "values_priorities": { "community": 0.75, "authority": 0.25, "environment": 0.7, "economy": 0.5, "safety": 0.55, "freedom": 0.7 },
+    "contradiction_style": { "mask_style": "reveal", "mask_strength": 0.15, "notes": "Low masking; vocal when displeased." }
+  },
+  {
+    "id": "p4",
+    "name": "Secluded Perfectionist",
+    "profile": {
+      "region": "Various (quiet/commuter campuses)",
+      "class": "Middle income",
+      "language": "English",
+      "immigration_wave": "Mixed"
+    },
+    "emotional_traits": { "joy": 0.44, "anger": 0.22, "fear": 0.58, "trust": 0.52, "surprise": 0.38, "disgust": 0.18, "sadness": 0.4 },
+    "tone_tags": ["reserved", "precise", "formal-leaning"],
+    "values_priorities": { "community": 0.45, "authority": 0.6, "environment": 0.45, "economy": 0.6, "safety": 0.7, "freedom": 0.5 },
+    "contradiction_style": { "mask_style": "mask", "mask_strength": 0.9, "notes": "Keeps worries private; neutral in public." }
+  },
+  {
+    "id": "p5",
+    "name": "Cottagecore Enthusiast",
+    "profile": {
+      "region": "Suburban/rural-leaning",
+      "class": "Middle income",
+      "language": "English",
+      "immigration_wave": "Mixed"
+    },
+    "emotional_traits": { "joy": 0.62, "anger": 0.18, "fear": 0.3, "trust": 0.6, "surprise": 0.48, "disgust": 0.16, "sadness": 0.22 },
+    "tone_tags": ["gentle", "eco-friendly", "wholesome"],
+    "values_priorities": { "community": 0.65, "authority": 0.4, "environment": 0.75, "economy": 0.5, "safety": 0.6, "freedom": 0.6 },
+    "contradiction_style": { "mask_style": "mask", "mask_strength": 0.7, "notes": "Keeps public tone kind even when displeased." }
+  },
+  {
+    "id": "p6",
+    "name": "Streetwear Gamer",
+    "profile": {
+      "region": "Urban (West Coast/East Coast)",
+      "class": "Middle income",
+      "language": "English",
+      "immigration_wave": "Multi-generation American common"
+    },
+    "emotional_traits": { "joy": 0.55, "anger": 0.3, "fear": 0.28, "trust": 0.52, "surprise": 0.5, "disgust": 0.2, "sadness": 0.24 },
+    "tone_tags": ["sarcastic", "hype", "trend-aware"],
+    "values_priorities": { "community": 0.6, "authority": 0.35, "environment": 0.5, "economy": 0.6, "safety": 0.55, "freedom": 0.72 },
+    "contradiction_style": { "mask_style": "mask", "mask_strength": 0.85, "notes": "Public persona stays cool even when annoyed." }
+  }
+]

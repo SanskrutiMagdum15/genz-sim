@@ -1,0 +1,123 @@
+text,topic,tone,emotion_tag,sentiment
+"class was lowkey tough today",school,casual,sadness,-1
+"got scheduled for a double shift",work,casual,sadness,-1
+"heatwave again, stay hydrated",climate,formal,fear,-1
+"new patch is lit",gaming,casual,joy,1
+"rent due, wallet crying",money,casual,sadness,-1
+"gym day, feeling strong",health,mixed,joy,1
+"tacos with friends, big vibe",food,casual,joy,1
+"bus late again ugh",transport,casual,anger,-1
+"open mic night downtown",events,mixed,surprise,1
+"ngl the date was awkward",dating,casual,sadness,-1
+"study group was helpful",school,mixed,trust,1
+"project deadline extended",school,formal,surprise,1
+"manager praised my work",work,mixed,joy,1
+"another heatwave alert",climate,formal,fear,-1
+"raid tonight, squad ready",gaming,casual,joy,1
+"salary posted late, annoyed",money,casual,anger,-1
+"doctor said all good",health,formal,trust,1
+"bro that burger slapped",food,casual,joy,1
+"train delayed again",transport,casual,anger,-1
+"free entry before 9pm",events,formal,joy,1
+"first date went great",dating,casual,joy,1
+"exam got rescheduled",school,formal,surprise,1
+"shift swap saved me",work,mixed,trust,1
+"air quality nasty today",climate,formal,disgust,-1
+"ranked up finally",gaming,casual,joy,1
+"coupon saved my budget",money,formal,joy,1
+"sleep schedule fixed",health,mixed,trust,1
+"sis cooked, house smells amazing",food,casual,joy,1
+"bus driver skipped stop",transport,casual,anger,-1
+"street fest was wild",events,casual,surprise,1
+"date canceled last minute",dating,casual,sadness,-1
+"group project vibes okay",school,casual,joy,1
+"new role posted at work",work,formal,surprise,1
+"smoke from fires, mask up",climate,formal,fear,-1
+"game servers down ugh",gaming,casual,anger,-1
+"rent split fair this month",money,formal,trust,1
+"injured my ankle",health,formal,sadness,-1
+"ramen night with friends",food,casual,joy,1
+"traffic jam again",transport,casual,anger,-1
+"open mic got canceled",events,formal,sadness,-1
+"the date was actually fun",dating,casual,joy,1
+"TA said my code is clean",school,mixed,joy,1
+"boss approved PTO",work,formal,joy,1
+"power outage from heat",climate,formal,fear,-1
+"finally beat the boss",gaming,casual,joy,1
+"groceries too expensive",money,formal,anger,-1
+"sleeping better lately",health,mixed,trust,1
+"family dinner big vibe",food,casual,joy,1
+"missed the last train",transport,casual,sadness,-1
+"local band killed it",events,casual,joy,1
+"awkward text after date",dating,casual,sadness,-1
+"late assignment accepted",school,mixed,surprise,1
+"coworker brought donuts",work,casual,joy,1
+"record temps again",climate,formal,fear,-1
+"new skin unlocked",gaming,casual,joy,1
+"refund took forever",money,formal,anger,-1
+"stretches helped my back",health,formal,trust,1
+"brownies came out perfect",food,casual,joy,1
+"rideshare surge pricing",money,formal,anger,-1
+"missed my bus stop",transport,casual,sadness,-1
+"street fair rained out",events,formal,sadness,-1
+"double date went decent",dating,casual,joy,1
+"library extended hours",school,formal,joy,1
+"manager rescheduled shift",work,formal,surprise,1
+"smoke made eyes burn",climate,formal,disgust,-1
+"team carried me lol",gaming,casual,joy,1
+"cashback posted, nice",money,formal,joy,1
+"hydration goals met",health,formal,trust,1
+"mom’s soup healed me",food,casual,joy,1
+"train on time finally",transport,formal,joy,1
+"street show was fun",events,casual,joy,1
+"date felt mid",dating,casual,neutral,0
+"club meeting helpful",school,formal,trust,1
+"got overtime approved",work,formal,joy,1
+"recycling bin full",climate,formal,trust,1
+"lag ruined my match",gaming,casual,anger,-1
+"coupon didn’t apply",money,formal,anger,-1
+"meditation app helped",health,formal,trust,1
+"new taco spot opened",food,casual,joy,1
+"bus detour confused me",transport,formal,sadness,-1
+"festival lineup insane",events,casual,surprise,1
+"they never texted back",dating,casual,sadness,-1
+"prof gave bonus points",school,formal,joy,1
+"coworker covered shift",work,formal,trust,1
+"ocean breeze felt clean",climate,formal,joy,1
+"solo queued and won",gaming,casual,joy,1
+"rent split argued",money,casual,anger,-1
+"8k steps today",health,formal,trust,1
+"grandma’s pie hit",food,casual,joy,1
+"ride canceled last min",transport,casual,sadness,-1
+"venue over capacity",events,formal,anger,-1
+"date was a green flag",dating,casual,joy,1
+"study partner bailed",school,casual,sadness,-1
+"pay bump announced",work,formal,joy,1
+"smoke alarm false alert",climate,formal,surprise,1
+"friend carried the raid",gaming,casual,joy,1
+"late fees hurt",money,formal,anger,-1
+"cold shower woke me up",health,formal,surprise,1
+"best tacos of the year",food,casual,joy,1
+"train packed like sardines",transport,casual,disgust,-1
+"open mic encore",events,casual,joy,1
+"ghosted after two dates",dating,casual,sadness,-1
+"tutor session helped",school,formal,trust,1
+"shift ran over time",work,formal,anger,-1
+"heat index dangerous",climate,formal,fear,-1
+"won the tournament",gaming,casual,joy,1
+"free pizza coupon",money,formal,joy,1
+"yoga class was calming",health,formal,trust,1
+"food truck night",food,casual,joy,1
+"missed transfer again",transport,casual,anger,-1
+"soundcheck failed",events,formal,anger,-1
+"met the right person",dating,casual,joy,1
+"finals done, relief",school,casual,joy,1
+"schedule posted early",work,formal,surprise,1
+"weird orange sky",climate,formal,surprise,1
+"fps drop made me quit",gaming,casual,anger,-1
+"budget on track",money,formal,trust,1
+"therapist said good progress",health,formal,trust,1
+"sis baked cupcakes",food,casual,joy,1
+"driver took long route",transport,casual,anger,-1
+"neighbors too loud",events,casual,anger,-1
+"the date had red flags",dating,casual,anger,-1
