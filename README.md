@@ -98,27 +98,33 @@ If OPENAI_API_KEY is set, reactions are sent to GPT with the instruction:
 Output ensures clarity and conciseness.
 
 ## Setup Instructions
-1. Clone the repository
+1. Clone the repository:
 git clone https://github.com/SanskrutiMagdum15/genz-sim.git
+
 cd genz-sim
 
-2. Create and activate a virtual environment
+2. Create and activate a virtual environment:
 python -m venv venv
+
 source venv/bin/activate   # Mac/Linux
+
 venv\Scripts\activate      # Windows
 
-3. Install dependencies
+2. Install dependencies:
 pip install -r requirements.txt
 
-4. Run the FastAPI server
+4. Run the FastAPI server:
 uvicorn backend.app:app --reload
 
-5. Frontend
+5. Frontend:
 1. Navigate to frontend folder
+   
 cd frontend
-2. Install dependencies
+
+6. Install dependencies:
 npm install
-3. Start the development server
+
+7. Start the development server:
 npm run dev
 
 ## Example Screenshots
